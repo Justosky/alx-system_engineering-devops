@@ -1,4 +1,4 @@
-Ten scripts exist in this repository
+Eleven scripts exist in this repository
 1. 0-current_working_directory (This script prints the absolute path for the present working directory)
 2. 1-listit                    (This script list the directories and files in the present working directory)
 3. 2-bring_me_home	       (This script changes the working directory to the user’s home directory)
@@ -9,4 +9,6 @@ Ten scripts exist in this repository
 8. 7-movethatfile              (This script move the file betty from /tmp/ to /tmp/my_first_directory)
 9. 8-firstdelete               (This script deletes the file betty. betty file is in /tmp/my_first_directory directory)
 10. my_first_directory         (This script deletes the directory my_first_directory that is in the /tmp directory)
+11. 10-back                    (This script changes the working directory to the previous one)
+12.
 More scripts will be added later.
