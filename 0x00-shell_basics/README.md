@@ -1,4 +1,4 @@
-Twelve scripts exist in this repository
+Thirteen scripts exist in this repository
 1. 0-current_working_directory (This script prints the absolute path for the present working directory)
 2. 1-listit                    (This script list the directories and files in the present working directory)
 3. 2-bring_me_home	       (This script changes the working directory to the user’s home directory)
@@ -12,5 +12,6 @@ Twelve scripts exist in this repository
 11. 10-back                    (This script changes the working directory to the previous one)
 12. 11-lists                   (This script lists all files (even ones with names beginning with a period character, which are normally
                                 hidden) in the current directory and the parent of the working directory and the /boot directory (in                                   this order), in long format)
-13. 
+13. 12-file_type               (This script prints the type of the file named iamafile. The file iamafile will be in the /tmp directory                                 when we will run your script. 
+14.
 More scripts will be added later.
