@@ -1,4 +1,4 @@
-Sixteen scripts exist in this repository
+Eighteen scripts exist in this repository
 1. 0-current_working_directory (This script prints the absolute path for the present working directory)
 2. 1-listit                    (This script list the directories and files in the present working directory)
 3. 2-bring_me_home	       (This script changes the working directory to the user’s home directory)
@@ -17,4 +17,6 @@ Sixteen scripts exist in this repository
 15.14-copy_html                 (This script  copies all the HTML files from the current working directory to the parent of the working                                   directory, but only copy files that did not exist in the parent of the working directory or were                                           newer than the versions in the parent of the working directory.)
 16.                               (This is a script script that moves all files beginning with an uppercase letter to the directory /                                     tmp/u.)
 17.                               (This script deletes all files in the current working directory that end with the character ~)
+18.                               (this script creates the directories welcome/, welcome/to/ and welcome/to/school in the current                                              directory)
+
 More scripts will be added later.
