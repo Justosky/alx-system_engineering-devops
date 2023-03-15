@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -type d -mindepth 0 | wc -l
+find $PATH -type d -mindepth 2 | wc -l
