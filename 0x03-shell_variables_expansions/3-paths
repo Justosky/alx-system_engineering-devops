@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find $PATH -type d | wc -l
+find PATH -type d | wc -l
