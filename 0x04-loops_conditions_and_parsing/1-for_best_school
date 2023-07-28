@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# A script that prints a text ten times
+
+for ((times = 1; times <= 10; times++))
+do
+    printf "Best School\n"
+done
