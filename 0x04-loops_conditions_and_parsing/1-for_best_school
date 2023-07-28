@@ -3,5 +3,5 @@
 
 for ((times = 1; times <= 10; times++))
 do
-    printf "Best School\n"
+    echo "Best School"
 done
